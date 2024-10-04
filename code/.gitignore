@@ -1,0 +1,6 @@
+src/test/*
+bin/*
+out/*
+lib/javafx-sdk-22
+lib/gson-2.10.1.jar
+lib/java-diff-utils-4.12.jar
